@@ -1,0 +1,1 @@
+Im proud to announce that it is my own StockApp
